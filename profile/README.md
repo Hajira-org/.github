@@ -1,6 +1,12 @@
+
+<img width="1080" height="822" alt="Untitled design (2)-modified" src="https://github.com/user-attachments/assets/b87ce209-5301-432c-b007-f15d802c15a4" />
+
+
 # Welcome to Hajira
 
 Hajira is all about connecting people with work and opportunities in a simple, secure, and fair way. Whether you're looking for short-term gigs, trying to find talent for your project, or just exploring new ways to earn money, Hajira makes it easy to get started and succeed.
+
+View the live site at : https://hajira-org.netlify.app/
 
 ## What Hajira Does
 
