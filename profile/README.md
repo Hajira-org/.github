@@ -2,8 +2,6 @@
 
 Hajira is all about connecting people with work and opportunities in a simple, secure, and fair way. Whether you're looking for short-term gigs, trying to find talent for your project, or just exploring new ways to earn money, Hajira makes it easy to get started and succeed.
 
----
-
 ## What Hajira Does
 
 ### 1. Quick and Flexible Gigs
