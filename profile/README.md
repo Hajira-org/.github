@@ -6,7 +6,7 @@
 
 Hajira is all about connecting people with work and opportunities in a simple, secure, and fair way. Whether you're looking for short-term gigs, trying to find talent for your project, or just exploring new ways to earn money, Hajira makes it easy to get started and succeed.
 
-View the live site at : https://hajira-org.netlify.app/
+View the live site at : https://hajira-org.netlify.app/ If the site doesnt work due to various reasons such as downtimes or server errors, switch to https://hajira-org.vercel.app/
 
 ## What Hajira Does
 
