@@ -1,5 +1,6 @@
 
-<img width="1080" height="822" alt="Untitled design (2)-modified" src="https://github.com/user-attachments/assets/b87ce209-5301-432c-b007-f15d802c15a4" />
+
+<img width="1080" height="1080" alt="logo" src="https://github.com/user-attachments/assets/3d9583f0-f39c-4b22-98f5-2c2aafc88bdc" />
 
 
 # Welcome to Hajira
