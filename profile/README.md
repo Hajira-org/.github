@@ -1,3 +1,5 @@
+![Vercel Deploy](https://deploy-badge.vercel.app/vercel/hajira-org?name=Hajira.org%2Fvercel)
+![Netlify Deploy](http://img.shields.io/netlify/0868acae-7f5d-4997-af37-dce357af9582?logo=netlify&label=Hajira%2Fnetlify)
 # Welcome to Hajira
 
 Hajira is all about connecting people with work and opportunities in a simple, secure, and fair way. Whether you're looking for short-term gigs, trying to find talent for your project, or just exploring new ways to earn money, Hajira makes it easy to get started and succeed.
