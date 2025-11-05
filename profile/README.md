@@ -70,3 +70,12 @@ Hajira values fairness for both workers and employers. Our policies ensure that 
 ## Join Hajira Today
 
 Whether you want to find work, hire talent, or just explore new opportunities, Hajira is here to make it simple, fair, and secure. Get started today and see how Hajira can transform the way you work and connect with others.
+
+---
+
+## Hajira's Sysem Architecture
+
+
+<img width="960" height="540" alt="HajiraACT" src="https://github.com/user-attachments/assets/926d599f-4cfe-490f-b7ea-0807ff3a7333" />
+
+
