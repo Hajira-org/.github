@@ -4,7 +4,8 @@ Hajira is all about connecting people with work and opportunities in a simple, s
 
 View the live site at : https://hajira-org.netlify.app/ If the site doesnt work due to various reasons such as downtimes or server errors, switch to https://hajira-org.vercel.app/
 
-<img width="1080" height="1080" alt="logo" src="https://github.com/user-attachments/assets/3d9583f0-f39c-4b22-98f5-2c2aafc88bdc" />
+![logo (2)](https://github.com/user-attachments/assets/1879aa6a-2a8c-4296-ba4b-c493accf1087)
+
 
 ## What Hajira Does
 
@@ -75,7 +76,9 @@ Whether you want to find work, hire talent, or just explore new opportunities, H
 
 ## Hajira's Sysem Architecture
 
+Take a look at how Hajira delivers its services efficiently using the diagram below.
 
-<img width="960" height="540" alt="HajiraACT" src="https://github.com/user-attachments/assets/926d599f-4cfe-490f-b7ea-0807ff3a7333" />
+
+![HajiraACT](https://github.com/user-attachments/assets/1dbe4c85-bb76-4bb0-b80e-ac2c41b00231)
 
 
